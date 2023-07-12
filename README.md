@@ -5,5 +5,5 @@
 - [져니](journey/README.md)
 - [썬샷]()
 - [네이브](./nave/README.md)
-- [우디]()
+- [우디](./woody/README.md)
 - [부엉이](./booung/README.md)
